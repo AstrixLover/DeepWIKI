@@ -1,6 +1,7 @@
 # DeepWiki – Local AI Research Assistant
 
-![DeepWiki Screenshot](Screenshot_22.jpg)
+![DeepWiki Screenshot]("C:\Users\HP\Documents\Lightshot\Screenshot_22.png")
+
 
 DeepWiki is a fully local, AI‑powered research assistant that turns a single question into multi‑step web research and a structured markdown report. It uses an Ollama‑hosted LLM for reasoning, Tavily for web search, and a LangGraph workflow you can inspect and control visually in LangGraph Studio. 
 
